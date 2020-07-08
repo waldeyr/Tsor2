@@ -1,0 +1,73 @@
+acyl-coa
+amino acid metabolism
+atp
+atp binding
+atpase
+calcium
+calmodulin
+cell cycle associated
+chaperone
+chaperonin
+chitin
+coa
+coa binding
+cytoskeletal proteins
+detoxification
+endoplasmin
+endoribonuclease
+factor
+ferritin
+gapdh
+gtp
+heme lipoprotein
+hormone activity
+hsp90
+intermediary metabolism
+iron
+laminin
+lipid metabolism
+macroglobulin
+metal ion binding
+myosin
+nadh
+nuclear export
+nuclear regulation
+nucleotide metabolism
+oxidant metabolism
+protein export
+protein modification
+protein synthesis machinery
+rna polymerase
+signal transduction
+spectrin
+splicing
+storage
+synthase
+tata box
+transcription factor
+transcription machinery
+translation
+transmembrane
+trasncription
+trna
+tropomyosin
+tub
+tubulin
+ubiquitin
+vacuolar
+zinc
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@

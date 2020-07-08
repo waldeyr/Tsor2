@@ -1,0 +1,73 @@
+acetylcholinesterase
+acetyltransferase
+aminopeptidase
+amylase
+asparagine
+asparagine lyase
+asparagine peptide lyase
+aspartic
+aspartic protease
+aspartic-like protease
+calpain
+carboxipeptidases
+carboxylase
+catalase
+cathepsin
+chitinase
+chymotrypsin
+cysteine
+cysteine protease
+dehydrogenase
+dehydrogenase 
+endopeptidase
+epimerase
+epoxy hydratates
+epoxy hydrolase
+fumarase
+glutamic
+glutamic protease
+glutamic-like protease
+helicase
+helicase
+hyaluronidase
+hydrolase
+isomerase
+kinase
+ligase
+lipase
+lyase
+m13 peptidase
+maltase
+metallo
+metallo proteases
+methyltransferase
+nuclease
+oxidase
+oxidoreductase
+papain
+pepsin
+peroxidase
+peroxiredoxin
+phosphatase
+phospholipase
+protease
+proteinase
+reductase
+ribonuclease
+serine
+serine carboxipeptidase
+serine protease
+serine/threonine kinase
+sucrase
+superoxide dismutase
+synthase
+threonine
+threonine protease
+threonine-like protease
+transferase
+trypsin
+@@@@@
+@@@@@
+@@@@@
+@@@@@
+@@@@@

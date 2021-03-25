@@ -76,4 +76,5 @@ Insert headline on the result file (caution: execute it only once)
 
 
 ## SIGNALP
-signalp -fasta Tsor2_Translated_Proteins.fasta -org euk -format short -prefix Tsor2_signalp -verbose -gff3
+
+`signalp -fasta Tsor2_Translated_Proteins.fasta -org euk -format short -prefix Tsor2_signalp -verbose -gff3`
